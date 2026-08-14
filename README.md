@@ -2,13 +2,11 @@
 
 ### Web Developer | Informatics Engineering Graduate
 
-I'm an **Informatics Engineering graduate** with a strong interest in **Web Development**. I enjoy building web applications, working with databases, and learning modern technologies to create useful and practical digital solutions.
-
-I'm continuously improving my skills and looking for opportunities to grow as a **Web Developer**.
+I'm an **Informatics Engineering graduate** with a strong interest in **Web Development**.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -33,7 +31,7 @@ I'm continuously improving my skills and looking for opportunities to grow as a 
 ---
 
 
-## 📜 Certifications
+## Certifications
 
 *  **BNSP — Junior Web Programmer**
 *  **Web Development — Studi Independen Bersertifikat**
@@ -42,7 +40,7 @@ I'm continuously improving my skills and looking for opportunities to grow as a 
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/wildan-prima-ifadhah/" target="_blank">
