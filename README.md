@@ -1,9 +1,6 @@
 # Hi there, I'm Wildan Prima Ifadhah 👋
 
-### Web Developer | Informatics Engineering Graduate
-
-I'm an **Informatics Engineering graduate** with a strong interest in **Web Development**.
-
+### Informatics Engineering Graduate
 ---
 
 ## Tech Stack
