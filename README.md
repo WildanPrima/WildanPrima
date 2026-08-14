@@ -8,12 +8,6 @@ I'm continuously improving my skills and looking for opportunities to grow as a 
 
 ---
 
-## 🧑‍💻 About Me
-
-* 🎓 Informatics Engineering Graduate
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
