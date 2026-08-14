@@ -1,88 +1,78 @@
 # Hi there, I'm Wildan Prima Ifadhah 👋
 
-### Informatics Engineering Graduate | IT Enthusiast
+### Web Developer | Informatics Engineering Graduate
 
-I'm an **Informatics Engineering graduate** with an interest in **IT Support, Web Development, and Data Analytics**. I enjoy learning new technologies, solving technical problems, and building practical solutions through technology.
+I'm an **Informatics Engineering graduate** with a strong interest in **Web Development**. I enjoy building web applications, working with databases, and learning modern technologies to create useful and practical digital solutions.
 
-Currently, I'm continuously improving my skills and exploring opportunities to grow in the IT industry.
+I'm continuously improving my skills and looking for opportunities to grow as a **Web Developer**.
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 🎓 **Bachelor's Degree in Informatics Engineering**
-* 💻 Interested in **IT Support, Web Development & Data Analytics**
-* 📊 Interested in working with **data, databases, and business insights**
-* 🌱 Currently improving my skills in **SQL, Excel, Power BI, Python, and Web Development**
-* 🔎 Open to **IT and technology-related opportunities**
-* 📍 Banten, Indonesia
+* 🎓 Informatics Engineering Graduate
+* 🌐 Focused on **Web Development**
+* 💻 Interested in **Backend & Full-Stack Development**
+* 🗄️ Experienced with relational database development
+* 🌱 Currently improving my web development skills
+* 🚀 Interested in building useful and scalable web applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Web Development
+### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### Backend
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
 
-### 🗄️ Database
+### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-### 📊 Data & Analytics
-
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge\&logo=googlesheets\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-### 🔧 Tools
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-## 📚 Certifications & Training
+## 🚀 What I Do
 
-* 🏆 **BNSP – Junior Web Programmer**
-* 📊 **Data Analyst Bootcamp – Karirnex**
-* 💻 **Web Development – Studi Independen Bersertifikat**
-* 🎓 **Amanah Academy – Certificate of Graduation**
-* 🖥️ **Backend Development – Dibimbing.id**
-
----
-
-## 🚀 What I've Worked On
-
-### 🌐 Web Development
-
-Developed web-based applications using **HTML, CSS, JavaScript, PHP, Laravel, and MySQL**, including a team-based **E-Class web application**.
-
-### 📊 Data Analytics
-
-Worked with **Excel, SQL, Python, and Power BI** to strengthen my ability to process, analyze, and visualize data.
-
-### 🖥️ IT Support
-
-Gained experience supporting **hardware and software operations**, handling administrative data, and assisting technical and operational activities.
+* 🌐 Build responsive web applications
+* ⚙️ Develop backend applications using **PHP & Laravel**
+* 🗄️ Design and manage relational databases using **MySQL**
+* 🔗 Build and integrate web application features
+* 🧩 Develop applications using structured and maintainable code
+* 🤝 Work collaboratively on web development projects
 
 ---
 
-## 📌 Featured Projects
+## 📂 Featured Projects
 
-> 🚧 More projects coming soon...
+### 🎓 E-Class Web Application
 
-I'm currently working on building and improving projects related to:
+A web-based **E-Class application** developed as a team project.
 
-* 📊 Data Analysis & Dashboard
-* 🌐 Web Applications
-* 🗄️ Database Management
-* 🖥️ IT Support & Troubleshooting
+**Tech Stack:**
+`HTML` `CSS` `JavaScript` `PHP` `Laravel` `MySQL`
+
+> More projects coming soon...
+
+---
+
+## 📜 Certifications
+
+* 🏆 **BNSP — Junior Web Programmer**
+* 💻 **Web Development — Studi Independen Bersertifikat**
+* 🎓 **Amanah Academy — Certificate of Graduation**
+* ⚙️ **Backend Development — Dibimbing.id**
 
 ---
 
@@ -101,4 +91,4 @@ I'm currently working on building and improving projects related to:
 
 ### ⭐ Thanks for visiting my profile!
 
-I'm always open to learning, collaborating, and exploring new opportunities in the technology industry.
+I'm always learning, building, and improving my skills in **Web Development**.
