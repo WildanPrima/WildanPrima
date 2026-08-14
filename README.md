@@ -30,9 +30,9 @@
 
 ## Certifications
 
-*  **BNSP — Junior Web Programmer**
-*  **Web Development — Studi Independen Bersertifikat**
-*  **Amanah Academy — Certificate of Graduation**
+*  ** Software Development — Junior Web Programmer (BNSP)**
+*  **Studi Independen Bersertifikat (SIB) Kampus Merdeka — Web Development**
+*  ** Certificate of Graduation — Amanah Academy PT Amanah Karya Indonesia**
 *  **Backend Development — Dibimbing.id**
 
 ---
