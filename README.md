@@ -43,7 +43,7 @@ I'm an **Informatics Engineering graduate** with a strong interest in **Web Deve
 ## Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/wildan-prima-ifadhah/" target="_blank">
+  <a href="https://www.linkedin.com/in/wildan-prima/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://wildanprimaaifadhah.netlify.app/" target="_blank">
