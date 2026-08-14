@@ -41,10 +41,10 @@ I'm continuously improving my skills and looking for opportunities to grow as a 
 
 ## 📜 Certifications
 
-* 🏆 **BNSP — Junior Web Programmer**
-* 💻 **Web Development — Studi Independen Bersertifikat**
-* 🎓 **Amanah Academy — Certificate of Graduation**
-* ⚙️ **Backend Development — Dibimbing.id**
+*  **BNSP — Junior Web Programmer**
+*  **Web Development — Studi Independen Bersertifikat**
+*  **Amanah Academy — Certificate of Graduation**
+*  **Backend Development — Dibimbing.id**
 
 ---
 
