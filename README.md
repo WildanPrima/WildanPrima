@@ -11,11 +11,6 @@ I'm continuously improving my skills and looking for opportunities to grow as a 
 ## 🧑‍💻 About Me
 
 * 🎓 Informatics Engineering Graduate
-* 🌐 Focused on **Web Development**
-* 💻 Interested in **Backend & Full-Stack Development**
-* 🗄️ Experienced with relational database development
-* 🌱 Currently improving my web development skills
-* 🚀 Interested in building useful and scalable web applications
 
 ---
 
