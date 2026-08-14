@@ -43,29 +43,6 @@ I'm continuously improving my skills and looking for opportunities to grow as a 
 
 ---
 
-## 🚀 What I Do
-
-* 🌐 Build responsive web applications
-* ⚙️ Develop backend applications using **PHP & Laravel**
-* 🗄️ Design and manage relational databases using **MySQL**
-* 🔗 Build and integrate web application features
-* 🧩 Develop applications using structured and maintainable code
-* 🤝 Work collaboratively on web development projects
-
----
-
-## 📂 Featured Projects
-
-### 🎓 E-Class Web Application
-
-A web-based **E-Class application** developed as a team project.
-
-**Tech Stack:**
-`HTML` `CSS` `JavaScript` `PHP` `Laravel` `MySQL`
-
-> More projects coming soon...
-
----
 
 ## 📜 Certifications
 
@@ -88,7 +65,3 @@ A web-based **E-Class application** developed as a team project.
 </p>
 
 ---
-
-### ⭐ Thanks for visiting my profile!
-
-I'm always learning, building, and improving my skills in **Web Development**.
