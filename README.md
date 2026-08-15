@@ -1,6 +1,6 @@
 # Hi there, I'm Wildan Prima Ifadhah 👋
 
-### 🎓 Informatics Engineering Graduate
+### Informatics Engineering Graduate 🎓 
 ---
 
 ## Tech Stack
