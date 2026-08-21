@@ -1,52 +1,49 @@
-# Hi there, I'm Wildan Prima Ifadhah 👋
+# Hi, I'm Wildan Prima Ifadhah 👋
 
-### Informatics Engineering Graduate 🎓 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Data+Analytics+Enthusiast;Turning+Data+into+Insights+📊" alt="Typing SVG" />
+</p>
 
-## Tech Stack
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### Backend
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+<p align="center">
+  <i>Informatics Engineering Graduate 🎓</i>
+</p>
 
 ---
 
+## 🛠️ Tools & Technologies
 
-## Certifications
+<p align="center">
 
-*  **Software Development — Junior Web Programmer (BNSP)**
-*  **Studi Independen Bersertifikat (SIB) Kampus Merdeka — Web Development**
-*  **Certificate of Graduation — Amanah Academy PT Amanah Karya Indonesia**
-*  **Backend Development — Dibimbing.id**
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</p>
 
 ---
 
-## Let's Connect
+## 📜 Certifications
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/wildan-prima/" target="_blank">
+* Junior Web Programmer — BNSP
+* Studi Independen Bersertifikat — Web Development
+* Bootcamp Data Analyst — Karir Nex by PT Ebiz Karisma Internasional
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/wildan-prima/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
-  <a href="https://wildanprimaaifadhah.netlify.app/" target="_blank">
+  <a href="https://wildanprimaaifadhah.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
----
+<p align="center">
+  <i>“Turning data into meaningful insights.”</i> 📈
+</p>
