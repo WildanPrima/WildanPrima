@@ -1,42 +1,35 @@
-# Hi There!, I'm Wildan Prima Ifadhah 👋
+# Hi, I'm Wildan Prima Ifadhah 👋
 
-<p align="center">
-  Data Analyst  📈
-</p>
+### 📊 Data Analyst
 
-<p align="center">
-  <i>Informatics Engineering Graduate 🎓</i>
+<p>
+  Informatics Engineering Graduate 🎓
 </p>
 
 ---
 
-## Tools & Tech
+## Tools
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
 ## Certifications
 
-* Bootcamp Data Analyst — Karir Nex by PT Ebiz Karisma Internasional
-* Software Development — Bandan nasional Sertifikasi Profesi (BNSP)
-* Studi Independen Bersertifikat — Web Development
-
+* **Data Analyst Bootcamp** — Karir Nex
+* **Junior Web Programmer** — BNSP
+* **Studi Independen Bersertifikat** — Web Development
 
 ---
 
-## Let's Connect!
+## 🔗 Let's Connect
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/wildan-prima/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -44,4 +37,3 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
-
