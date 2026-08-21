@@ -1,7 +1,7 @@
 # Hi, I'm Wildan Prima Ifadhah 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Data+Analytics+Enthusiast;Turning+Data+into+Insights+📊" alt="Typing SVG" />
+  
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Tech
 
 <p align="center">
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 * Junior Web Programmer — BNSP
 * Studi Independen Bersertifikat — Web Development
@@ -33,7 +33,7 @@
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wildan-prima/">
