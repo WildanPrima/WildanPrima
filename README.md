@@ -3,7 +3,8 @@
 ### 📊 Data Analyst
 
 <p>
-  Informatics Engineering Graduate 🎓
+  Informatics Engineering Graduate🎓 focused on Data Analytics, with hands-on experience using SQL, Excel, and Power BI to explore data, build dashboards, and uncover useful insights. My projects cover areas such as employee data, sales performance, and business analysis, with a focus on turning raw data into clear and practical findings.
+
 </p>
 
 ---
@@ -30,7 +31,7 @@
 ## 🔗 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/wildan-prima/">
+  <a https://www.linkedin.com/in/wildan-prima/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://wildanprimaaifadhah.netlify.app/">
