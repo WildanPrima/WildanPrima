@@ -22,9 +22,9 @@
 
 ## Certifications
 
-* **Data Analyst Bootcamp** — Karir Nex
-* **Junior Web Programmer** — BNSP
-* **Studi Independen Bersertifikat** — Web Development
+* **Data Analyst Bootcamp** — Karir Nex by PT Ebiz Karisma Internasional
+* **Software Development** — Badan Nasional Sertifikasi Profesi (BNSP)
+* **Web Development** — Studi Independen Bersertifikat PT Amanah Karya Indonesia (Amanah Academy) — Kampus Merdeka 
 
 ---
 
