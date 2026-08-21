@@ -1,7 +1,7 @@
 # Hi There!, I'm Wildan Prima Ifadhah 👋
 
 <p align="center">
-  Data Analyst
+  Data Analyst  📈
 </p>
 
 <p align="center">
