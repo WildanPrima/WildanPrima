@@ -1,7 +1,7 @@
 # Hi There!, I'm Wildan Prima Ifadhah 👋
 
 <p align="center">
-  
+  Data Analyst
 </p>
 
 <p align="center">
@@ -27,9 +27,10 @@
 
 ## Certifications
 
-* Junior Web Programmer — BNSP
-* Studi Independen Bersertifikat — Web Development
 * Bootcamp Data Analyst — Karir Nex by PT Ebiz Karisma Internasional
+* Software Development — Bandan nasional Sertifikasi Profesi (BNSP)
+* Studi Independen Bersertifikat — Web Development
+
 
 ---
 
