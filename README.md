@@ -31,7 +31,7 @@
 ## 🔗 Let's Connect
 
 <p>
-  <a https://www.linkedin.com/in/wildan-prima/">
+  <a href="https://www.linkedin.com/in/wildan-prima/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://wildanprimaaifadhah.netlify.app/">
