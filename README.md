@@ -45,6 +45,3 @@
   </a>
 </p>
 
-<p align="center">
-  <i>“Turning data into meaningful insights.”</i> 📈
-</p>
