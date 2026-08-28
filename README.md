@@ -16,17 +16,17 @@
 ---
 
 
-## Featured Projects
+* **Featured Projects
 
 ### Analisis Industri Kosmetik
 
 Business & Data Analysis Project
 
-### Coffee Sales Dashboard
+* **Coffee Sales Dashboard
 
 Data Analytics Project
 
-### SQL Employee Database
+* **SQL Employee Database
 
 SQL & Data Analytics Project
 
