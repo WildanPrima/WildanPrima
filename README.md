@@ -23,13 +23,29 @@
 
 ---
 
+## Featured Projects
+
+### Analisis Industri Kosmetik
+
+Business & Data Analysis Project
+
+### Coffee Sales Dashboard
+
+Data Analytics Project
+
+### SQL Employee Database
+
+SQL & Data Analytics Project
+
+---
+
 ## 🔗 Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/wildan-prima/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
+
   <a href="https://wildanprimaaifadhah.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
