@@ -17,7 +17,9 @@
 
 ## Certifications
 
-* **Data Analyst Bootcamp** — Karir Nex by PT Ebiz Karisma Internasional
+* **Mini Course Data Analyst** — RevoU (2026)
+* **Data Analyst untuk Persiapan BNSP** — Yureka Education Center (2026)
+* **Data Analyst Bootcamp** — Karir Nex by PT Ebiz Karisma Internasional (2026)
 
 ---
 
