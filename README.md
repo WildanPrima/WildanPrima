@@ -16,9 +16,9 @@
 ---
 
 
-* **Featured Projects**
+## Featured Projects
 
-### Analisis Industri Kosmetik
+* **Analisis Industri Kosmetik**
 
 Business & Data Analysis Project
 
