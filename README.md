@@ -37,6 +37,7 @@ SQL & Data Analytics Project
 * **Mini Course Data Analyst** — RevoU (2026)
 * **Data Analyst untuk Persiapan BNSP** — Yureka Education Center (2026)
 * **Data Analyst Bootcamp** — Karir Nex by PT Ebiz Karisma Internasional (2026)
+* **Software Development** — Badan Nasional Sertifikasi (BNSP) — Universitas Serang Raya (2025)
 
 ---
 
