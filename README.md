@@ -48,7 +48,7 @@ SQL & Data Analytics Project
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://wildanprimaaifadhah.netlify.app/">
+  <a href="https://wildanprimaaif.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
